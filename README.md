@@ -1,17 +1,27 @@
-## Hi there 👋
+## Hey 👋
 
-You must be completely lost, bored, both?, to end up here 🙂
+If you landed here, welcome.
 
-Hope you find _something_ in here or [HERE](https://ojoaldato.github.io/) useful, cheers!
+Maybe you're curious. Maybe procrastinating.  
+Either way, I hope you find something useful here or over at [ojoaldato.github.io](https://ojoaldato.github.io/).
+
+---
 
 ### Principles
 
-- Allergic to hype and experts, specially "AI" experts
-- 2 is better than 0, 1 is better than 2
-- Ship fast BUT on solid infra
-- KISS! Keep it simple stupid
-- Data is a superpower
-- Problems first
-- UX over tech
-- AI ≠ GenAI
-- 🍕 ❤️ 🍍
+- Skeptical of hype, especially “AI experts”
+- 2 > 0. 1 > 2. Start small, iterate.
+- Ship fast on solid foundations
+- Keep it simple
+- Data is leverage
+- Problems first, tools second
+- UX over tech ego
+- AI is bigger than GenAI
+
+---
+
+### Other signals
+
+- 🍕 > 🍍 debate is open
+- 🐱 clearly > 🐶
+- ☕️ fuels everything
