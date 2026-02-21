@@ -2,7 +2,7 @@
 
 You must be completely lost, bored, both?, to end up here 🙂
 
-Hope you find _something_ in here useful, cheers!
+Hope you find _something_ in here or [HERE](https://ojoaldato.github.io/) useful, cheers!
 
 ### Principles
 
