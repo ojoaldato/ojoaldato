@@ -1,16 +1,17 @@
 ## Hi there 👋
 
-<!--
-**ojoaldato/ojoaldato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You must be completely lost, bored, both?, to end up here 🙂
 
-Here are some ideas to get you started:
+Hope you find _something_ in here useful, cheers!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Principles
+
+- Allergic to hype and experts, specially "AI" experts
+- 2 is better than 0, 1 is better than 2
+- Ship fast BUT on solid infra
+- KISS! Keep it simple stupid
+- Data is a superpower
+- Problems first
+- UX over tech
+- AI ≠ GenAI
+- 🍕 ❤️ 🍍
